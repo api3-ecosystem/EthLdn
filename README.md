@@ -78,10 +78,51 @@ Or get started now with the API3 Market.
 
 # Bounty Challenge: ---
 
-## Prize: $2500 (5 x $500) and Opportunity to Win a $10k Grant!
+# API3 Bounties: $5000 API3
 
-Mantle, the all-inclusive, scalable, and interoperable blockchain network, is thrilled to announce an exciting bounty challenge for innovative developers! We are inviting talented developers to fork a leading EVM (Ethereum Virtual Machine) lending protocol and deploy it on the Mantle Network.
-The catch? You need to seamlessly integrate dAPIs (Decentralized Application Interfaces) into your solution. Your task is to show a fully functional lending decentralized application (dApp) running smoothly on the Mantle Network. 
+---
+
+### 💸 Best DeFi Concept/Application: $2000 API3 Tokens
+
+Use and correct integration of dAPIs within:
+
+- Prediction market
+- Lending application
+- Perpetual swaps
+- Derivative protocols
+- Decentralized insurance protocols
+- Algorithmic stablecoin
+
+Use of an API3 oracle within a zero-knowledge DeFi primitive will be considered within judging.
+
+### Best use of an API3 oracle: **$2000 API3**
+
+Participants are invited to deliver a project that creatively integrates API3's oracle solution, specifically focusing on the Quantum Random Number Generation (RNG) and/or price feeds features.
+
+### Innovative use of price feed $500 API3
+
+dAPIs provide smart contracts with access to continuously updated data feeds updated by first-party oracles using signed data. They have been designed to be simple to integrate and once imported, can be re-directed to any data feed pair without further technical implementation. 
+
+We are looking for participants to implement dAPIs within a lending project on any chain. The below resources should guide you on the contract implementation of dAPIs. Developers that collaborate with other hackathon participants would be commended. 
+
+- [Activating a self-funded dAPI](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
+- [Reading a dAPI](https://docs.api3.org/guides/dapis/read-self-funded-dapi/)
+- https://github.com/api3dao/data-feed-reader-example
+
+### Most innovative use of API3 QRNG $500 API3
+
+### 😃 Best collaborator $1000 API3 Tokens
+
+- When used with other technologies oracles can unlock exciting new use cases, we welcome builders using API3 with other stacks in the hackathon
+- 
+
+**Data feed tutorial:** 
+
+**Requirements:** 
+
+- Successfully forked a well-known lending protocol and integrated an API3 data feed within one of the markets
+- Correct integration of a dAPI
+- Deployed to a chain
 
 ### Getting Started
 
