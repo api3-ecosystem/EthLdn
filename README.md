@@ -4,13 +4,13 @@ Hackers, we hope you are excited for the EthLondon Hackathon! Bringing the Ether
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-# API3 Bounties: Total of $6000 API3
+# API3 Bounties: Total of $5000 API3
 
 We are pleased to share that API3 will be offering a total of $6000 API3 tokens in bounties for the EthLondon Hackathon. 
 
-### 💸 Best DeFi Concept/Application: $2000 API3 
+### 💸 Best DeFi Concept/Application: $1500 API3 
 
-### 🏆 Best use of an API3 oracle: $2000 API3 
+### 🏆 Overall best use of an API3 oracle: $1500 API3 
 
 ### 🤓 Most innovative use of price feed or QRNG $1000 API3
 
@@ -32,8 +32,6 @@ First-party oracles provide a more secure and reliable oracle, whilst enabling d
 
 You can [learn more about first-party oracles](https://docs.api3.org/guides/airnode/calling-an-airnode/) or [dAPIs](https://docs.api3.org/explore/dapis/what-are-dapis.html) within the API3 Documentation.
 
-# API3 Oracles
-
 ### Data feeds: dAPIs
 
 dAPIs provide smart contracts with access to continuously updated feeds of market data. API3 data feeds can be accessed in two methods:
@@ -52,6 +50,7 @@ It operates as a public good, where users simply add gas to a wallet correlated 
 
 Learn more about QRNG within the [API3 explore section](https://docs.api3.org/explore/qrng/). 
 
+<!--
 
 # Get started with dAPIs
 
@@ -78,10 +77,11 @@ contract DataFeedReaderExample {
     } 
 }
 ``` 
+-->
 
 <!-- Do we need to add a link to the above?-->
 
-### Learning resources 
+# Learning resources 
 
 Learn more: 
 
@@ -116,9 +116,6 @@ https://github.com/billyjitsu/aa-oracle-zkevm
 
 Or get started now with the [API3 Market](https://market.api3.org/).
 
+# Community link
 
-
-
-
-
-
+Looking for help or just want to hang with industry leading developers? Head to the API3 Discord and drop questions in the #dev-support channel: https://discord.gg/api3dao
