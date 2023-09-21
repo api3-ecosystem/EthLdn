@@ -1,4 +1,6 @@
-# Eth London x API3
+# API3 hacker challenges at EthLondon ⬇️
+
+Hackers, we hope you are excited for the EthLondon Hackathon! Bringing the Ethereum ecosystem together in the city of London, we are looking forward to seeing what you build.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
@@ -14,19 +16,25 @@
 
 Airnode is a serverless function that lets API providers run their own oracle nodes. That way, they can provide data to any on-chain dApp that's interested in their services without an intermediary.
 
-First-party oracles provide a more secure and reliable oracle, whilst enabling dApps to transparently understand the data source.
+First-party oracles provide a more secure and reliable oracle, whilst enabling dApps to verify the data source.
 
-ou can [learn more about first-party oracles](https://docs.api3.org/guides/airnode/calling-an-airnode/) or [dAPIs](https://docs.api3.org/explore/dapis/what-are-dapis.html) within the API3 Documentation.
+You can [learn more about first-party oracles](https://docs.api3.org/guides/airnode/calling-an-airnode/) or [dAPIs](https://docs.api3.org/explore/dapis/what-are-dapis.html) within the API3 Documentation.
 
-### API3 data feeds: dAPIs
+# API3 Oracles
+
+### Data feeds: dAPIs
 
 dAPIs provide smart contracts with access to continuously updated feeds of market data. API3 data feeds can be accessed in two methods:
 
-- Self-funded dAPIs see users add collateral for oracle operation and are permissionless. They provide an efficient and secure data feed source, with off-chain aggregation.
+- Self-funded dAPIs see users add collateral for oracle operation and are permissionless. They provide a data feed source with off-chain aggregation as a single-source. 
 
-- Managed dAPIs are operated by the API3 DAO and require authorization. They are powered by multiple first-party oracles with native-chain aggregation, offering a decentralized oracle solution.
+- Managed dAPIs are powered by multiple first-party oracles with native-chain aggregation offering a veriable, decentralized oracle solution.
 
-Once a dAPI has been imported a smart contract can access a range of data feed services through the [API3 Market](https://market.api3.org/dapis).
+Once a dAPI has been integrated a smart contract can access a range of data feed services through the [API3 Market](https://market.api3.org/dapis).
+
+### API3 QRNG 
+
+
 
 # Get started with dAPIs
 
@@ -56,92 +64,56 @@ contract DataFeedReaderExample {
 
 <!-- Do we need to add a link to the above?-->
 
-### Additional learning resources 
-
-dAPIs give DeFi builders access to over 130 forex & crypto dAPIs that serve real-time market data to 10 networks (and 11 testnets). The below resources will help you get started with first-party data feeds.
+### Learning resources 
 
 Learn more: 
 
-- [Activating a self-funded dAPI](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
-- [Reading a dAPI](https://docs.api3.org/guides/dapis/read-self-funded-dapi/)
-- [API3 data feed reader example](https://github.com/api3dao/data-feed-reader-example)
+- [Activate self-funded dAPI](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
+- [Read a dAPI value](https://docs.api3.org/guides/dapis/read-self-funded-dapi/)
+- [Feed Reader example](https://github.com/api3dao/data-feed-reader-example)
 
 Tutorials: 
 
-- [Making on-chain Payments and mint NFT Receipts using dAPIs](https://medium.com/@vanshwassan/making-an-on-chain-payment-and-minting-an-nft-receipt-with-permissionless-price-oracles-a7339f7b8c3e)
-- [Using dAPIs on zkSync Era Testnet](https://vanshwassan.medium.com/using-dapis-on-zksync-era-testnet-30f12efdd95f)
+- [Making on-chain Payments and mint an NFT receipt using dAPIs](https://medium.com/@vanshwassan/making-an-on-chain-payment-and-minting-an-nft-receipt-with-permissionless-price-oracles-a7339f7b8c3e)
+
 - [zkSync Paymasters with dAPIs](https://era.zksync.io/docs/dev/tutorials/api3-usd-paymaster-tutorial.html)
+
+### References For Hackathons
+
+Links to different repos for examples and help.
+
+ETH CHI Workshop Repo
+https://github.com/billyjitsu/API3-PriceFeeds-Hardhat-Foundry
+
+Prediction Bet Between Two Parties
+https://github.com/billyjitsu/prediction
+
+Modified Paymaster for zkSync (Use dAPI to calculate USDC prices of Gas instead of ETH)
+https://github.com/billyjitsu/zk-paymaster-dapi-vip
+
+Fork of Aave with a simulation of a flashloan
+https://github.com/billyjitsu/Aave-Api3 
+
+Starter kit - Starting a borrow/lend setup with Wagmi/rainbowkit front end
+https://github.com/billyjitsu/aa-oracle-zkevm
 
 Or get started now with the API3 Market.
 
 - [API3 Market](https://market.api3.org/)
 
-# Bounty Challenge: ---
 
-# API3 Bounties: $5000 API3
+# API3 Bounties: Total of $6000 API3
 
----
+We are pleased to share that API3 will be offering a total of $6000 API3 tokens in bounties for the EthLondon Hackathon. 
 
-### 💸 Best DeFi Concept/Application: $2000 API3 Tokens
+### 💸 Best DeFi Concept/Application: $2000 API3 
 
-Use and correct integration of dAPIs within:
+### 🏆 Best use of an API3 oracle: $2000 API3 
 
-- Prediction market
-- Lending application
-- Perpetual swaps
-- Derivative protocols
-- Decentralized insurance protocols
-- Algorithmic stablecoin
+### 🤓 Most innovative use of price feed or QRNG $1000 API3
 
-Use of an API3 oracle within a zero-knowledge DeFi primitive will be considered within judging.
+### 😃 Best collaborator $1000 API3 
 
-### Best use of an API3 oracle: **$2000 API3**
 
-Participants are invited to deliver a project that creatively integrates API3's oracle solution, specifically focusing on the Quantum Random Number Generation (RNG) and/or price feeds features.
 
-### Innovative use of price feed $500 API3
 
-dAPIs provide smart contracts with access to continuously updated data feeds updated by first-party oracles using signed data. They have been designed to be simple to integrate and once imported, can be re-directed to any data feed pair without further technical implementation. 
-
-We are looking for participants to implement dAPIs within a lending project on any chain. The below resources should guide you on the contract implementation of dAPIs. Developers that collaborate with other hackathon participants would be commended. 
-
-- [Activating a self-funded dAPI](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
-- [Reading a dAPI](https://docs.api3.org/guides/dapis/read-self-funded-dapi/)
-- https://github.com/api3dao/data-feed-reader-example
-
-### Most innovative use of API3 QRNG $500 API3
-
-### 😃 Best collaborator $1000 API3 Tokens
-
-- When used with other technologies oracles can unlock exciting new use cases, we welcome builders using API3 with other stacks in the hackathon
-- 
-
-**Data feed tutorial:** 
-
-**Requirements:** 
-
-- Successfully forked a well-known lending protocol and integrated an API3 data feed within one of the markets
-- Correct integration of a dAPI
-- Deployed to a chain
-
-### Getting Started
-
-API3 Hacker Repo: https://github.com/vanshwassan/SozuHack
-Real-time Market Data: https://market.api3.org/dapis?chains=mantle-goerli-testnet
-
-### Challenge Breakdown:
-
-1. **Fork an EVM Lending Protocol:** Choose a leading, well-established EVM lending protocol and fork it. The protocol should offer robust lending functionalities and maintain a high standard of security.
-2. **Deploy on Mantle:** Adapt the forked protocol to be deployable on the Mantle Network. Leverage Mantle's unique capabilities and adapt the code as needed to ensure smooth operation on our network.
-3. **Integrate dAPIs:** Incorporate Mantle's dAPIs into your application to facilitate secure, decentralized user interaction. The application's functionalities must be accessible and smoothly operable via these dAPIs.
-4. **Launch a Working DeFi protocol:** Your ultimate deliverable will be a live, operational lending dApp that can facilitate loan origination, tracking, and repayment in a decentralized manner.
-
-### Prizes
-
-- **Bounty:** Each winning team will receive a bounty of $500, broken down into five payments of $500 each, upon the successful completion and demonstration of the lending dApp.
-- **Grant Opportunity:** Additionally, three outstanding projects will be selected for a $10,000 grant each from Mantle. These grants are designed to support further development and scaling of the project on our platform.
-### Evaluation Criteria:
-- Quality of the forked code and deployment on Mantle with dAPIs integrated. 
-- Interesting concepts for DeFi UX/UI that leverage the unique features of the Mantle Network.
-- Some thought into deployment to Mantle and depth of documentation.
-- Innovative approach of crypto, forex, equities and commodities data feeds can underpin DeFi markets and services
