@@ -6,7 +6,7 @@ Hackers, we hope you are excited for the EthLondon Hackathon! Bringing the Ether
 
 # API3 Bounties: Total of $5000 API3
 
-We are pleased to share that API3 will be offering a total of $6000 API3 tokens in bounties for the EthLondon Hackathon. 
+We are pleased to share that API3 will be offering a total of $5000 API3 tokens in bounties for the EthLondon Hackathon. 
 
 ### 💸 Best DeFi Concept/Application: $1500 API3 
 
