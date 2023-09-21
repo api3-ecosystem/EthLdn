@@ -28,12 +28,17 @@ dAPIs provide smart contracts with access to continuously updated feeds of marke
 
 - Self-funded dAPIs see users add collateral for oracle operation and are permissionless. They provide a data feed source with off-chain aggregation as a single-source. 
 
-- Managed dAPIs are powered by multiple first-party oracles with native-chain aggregation offering a veriable, decentralized oracle solution.
+- Managed dAPIs are powered by multiple first-party oracles with native-chain aggregation offering a verifiable, decentralized oracle solution.
 
 Once a dAPI has been integrated a smart contract can access a range of data feed services through the [API3 Market](https://market.api3.org/dapis).
 
 ### API3 QRNG 
 
+API3 QRNG is a public utility API3 provides on behalf of well-established, prestigious organizations serving Quantum random number generation (QRNG). QRNG is a method of random number generation based on quantum phenomena and considered within the scientific community to be the most secure method of random number generation.
+
+It operates as a public good, where users simply add gas to a wallet correlated to the oracle node, enabling the oracle node to return a random number when requested by a contract.
+
+Learn more about QRNG within the [API3 explore section](https://docs.api3.org/explore/qrng/). 
 
 
 # Get started with dAPIs
@@ -82,24 +87,22 @@ Tutorials:
 
 Links to different repos for examples and help.
 
-ETH CHI Workshop Repo
+- ETH CHI Workshop Repo:
 https://github.com/billyjitsu/API3-PriceFeeds-Hardhat-Foundry
 
-Prediction Bet Between Two Parties
+- Prediction bet between two Parties
 https://github.com/billyjitsu/prediction
 
-Modified Paymaster for zkSync (Use dAPI to calculate USDC prices of Gas instead of ETH)
+- Modified Paymaster for zkSync (Use dAPI to calculate USDC prices of Gas instead of ETH)
 https://github.com/billyjitsu/zk-paymaster-dapi-vip
 
-Fork of Aave with a simulation of a flashloan
+- Fork of Aave with a simulation of a flashloan
 https://github.com/billyjitsu/Aave-Api3 
 
-Starter kit - Starting a borrow/lend setup with Wagmi/rainbowkit front end
+- Starter kit - Starting a borrow/lend setup with WAGMI/rainbowkit front end
 https://github.com/billyjitsu/aa-oracle-zkevm
 
-Or get started now with the API3 Market.
-
-- [API3 Market](https://market.api3.org/)
+Or get started now with the [API3 Market](https://market.api3.org/).
 
 
 # API3 Bounties: Total of $6000 API3
