@@ -4,7 +4,19 @@ Hackers, we hope you are excited for the EthLondon Hackathon! Bringing the Ether
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-## Introduction to API3
+# API3 Bounties: Total of $6000 API3
+
+We are pleased to share that API3 will be offering a total of $6000 API3 tokens in bounties for the EthLondon Hackathon. 
+
+### 💸 Best DeFi Concept/Application: $2000 API3 
+
+### 🏆 Best use of an API3 oracle: $2000 API3 
+
+### 🤓 Most innovative use of price feed or QRNG $1000 API3
+
+### 😃 Best collaborator $1000 API3 
+
+# Introduction to API3
 
 [API3](https://api3.org/) is a collaborative project that delivers Oracle services to smart contracts in a decentralized and trust-minimized way. It is governed by a decentralized autonomous organization (DAO), namely the [API3 DAO](https://api3.org/dao).
 
@@ -105,17 +117,7 @@ https://github.com/billyjitsu/aa-oracle-zkevm
 Or get started now with the [API3 Market](https://market.api3.org/).
 
 
-# API3 Bounties: Total of $6000 API3
 
-We are pleased to share that API3 will be offering a total of $6000 API3 tokens in bounties for the EthLondon Hackathon. 
-
-### 💸 Best DeFi Concept/Application: $2000 API3 
-
-### 🏆 Best use of an API3 oracle: $2000 API3 
-
-### 🤓 Most innovative use of price feed or QRNG $1000 API3
-
-### 😃 Best collaborator $1000 API3 
 
 
 
