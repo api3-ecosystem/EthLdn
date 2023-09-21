@@ -1,4 +1,4 @@
-# API3 hacker challenges at EthLondon ⬇️
+# API3 hacker challenges at EthLondon 🇬🇧👑🔨🌆
 
 Hackers, we hope you are excited for the EthLondon Hackathon! Bringing the Ethereum ecosystem together in the city of London, we are looking forward to seeing what you build.
 
