@@ -8,13 +8,23 @@ Hackers, we hope you are excited for the EthLondon Hackathon! Bringing the Ether
 
 We are pleased to share that API3 will be offering a total of $5000 API3 tokens in bounties for the EthLondon Hackathon. 
 
-### 💸 Best DeFi Concept/Application: $1500 API3 
+### 💸 Top Prize: Best DeFi Concept/Application: $1500 API3 ###
+    
+-  **Must be deployed to a testnet**
 
-### 🏆 Overall best use of an API3 oracle: $1500 API3 
+### 🏆 Overall best use of an API3 oracle: $2500 API3 
+- **Criteria:**
+    - ChainAPI Integration
+    - dAPIs Implementation
+    - QRNG (Specifically for Gaming Usage)
 
-### 🤓 Most innovative use of price feed or QRNG $1000 API3
+- **1st Place:** 1,500 API3
 
-### 😃 Best collaborator $1000 API3 
+    **2nd Place:** 1,000 API3
+
+    **3rd Place:** 500 API3
+
+### 😃 Best collaborator $500 API3 
 
 # Introduction to API3
 
