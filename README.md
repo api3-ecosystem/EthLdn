@@ -129,3 +129,27 @@ Or get started now with the [API3 Market](https://market.api3.org/).
 # Community link
 
 Looking for help or just want to hang with industry leading developers? Head to the API3 Discord and drop questions in the #dev-support channel: https://discord.gg/api3dao
+
+## Submission Requirements
+
+All hackathon participants who are competing for the API3 bounties are required to submit a project that meets the following requirements:
+
+- The project should be submitted to the ETH London Hackathon 2023 by the deadline.
+- Use of API3’s self-funded dAPIs that facilitates a proper use-case.
+- The project should be live with a working frontend deployed.
+- The project should be open-source with a public Github repository with the codebase, 
+- The repo must be licenced with one of the following open source licences: GPL-3.0, or MIT.
+
+# Judging criteria
+
+Participants may submit a maximum of 1 project by the hackathon deadline. After submission, projects will be judged by the following criteria:
+
+- **Real-world Functionality**: How well does the project work? Does it meet the minimum requirements?
+
+- **Technical Difficulty**: How technically challenging was it to build the project?
+
+- **Originality**: How original is the idea? How much does it differ from other existing solutions?
+
+- **Design**: How well-designed is the project? Is it easy to use? Is it visually appealing?
+
+- **BONUS** - Adding functionality to the Airnode protocol that will improve performance, interoperability, or further develop use cases.
