@@ -12,7 +12,7 @@ We are pleased to share that API3 will be offering a total of $5000 API3 tokens 
     
 -  **Must be deployed to a testnet**
 
-### 🏆 Overall best use of an API3 oracle: $2500 API3 
+### 🏆 Overall best use of an API3 oracle: $3000 API3 
 - **Criteria:**
     - ChainAPI Integration
     - dAPIs Implementation
