@@ -65,7 +65,10 @@ https://github.com/api3-ecosystem/Aave-Api3
 - Starter kit - Starting a borrow/lend setup with WAGMI/rainbowkit front end
 https://github.com/api3-ecosystem/oracle-zkevm
 
-Or get started now with the [API3 Market](https://market.api3.org/).
+- Offchain API - Royalty share - Pull a youtube api and use it to pay royalties onchain
+https://github.com/api3-ecosystem/offchain-music
+
+- Or get started now with the [API3 Market](https://market.api3.org/).
 
 # Community link
 
