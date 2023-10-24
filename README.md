@@ -60,36 +60,6 @@ It operates as a public good, where users simply add gas to a wallet correlated 
 
 Learn more about QRNG within the [API3 explore section](https://docs.api3.org/explore/qrng/). 
 
-<!--
-
-# Get started with dAPIs
-
-To get started all you have to do is import the `IProxy` interface and call the `read()` function.
-
-```solidity
-pragma solidity 0.8.17;
-
-import "@api3/contracts/v0.8/interfaces/IProxy.sol";
-
-contract DataFeedReaderExample {
-    ...
-
-    function readDataFeed()
-        external
-        view
-        returns (int224 value, uint256 timestamp)
-    {
-        // proxyAddress is the address of the proxy contract for
-        // the dAPI you want to read.
-        // Head over to https://market.api3.org to get the proxy
-        // address for the dAPI you want. 
-        (value, timestamp) = IProxy(proxyAddress).read();
-    } 
-}
-``` 
--->
-
-<!-- Do we need to add a link to the above?-->
 
 # Learning resources 
 
@@ -98,6 +68,7 @@ Learn more:
 - [Activate self-funded dAPI](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
 - [Read a dAPI value](https://docs.api3.org/guides/dapis/read-self-funded-dapi/)
 - [Feed Reader example](https://github.com/api3dao/data-feed-reader-example)
+- [Getting Started](https://github.com/api3-ecosystem/getting-started)
 
 Tutorials: 
 
@@ -110,19 +81,19 @@ Tutorials:
 Links to different repos for examples and help.
 
 - ETH CHI Workshop Repo:
-https://github.com/billyjitsu/API3-PriceFeeds-Hardhat-Foundry
+https://github.com/api3-ecosystem/API3-PriceFeeds-Hardhat-Foundry
 
 - Prediction bet between two Parties
-https://github.com/billyjitsu/prediction
+https://github.com/api3-ecosystem/Prediction-Contract
 
 - Modified Paymaster for zkSync (Use dAPI to calculate USDC prices of Gas instead of ETH)
-https://github.com/billyjitsu/zk-paymaster-dapi-vip
+https://github.com/api3-ecosystem/zk-paymaster-dapi-vip
 
 - Fork of Aave with a simulation of a flashloan
-https://github.com/billyjitsu/Aave-Api3 
+https://github.com/api3-ecosystem/Aave-Api3
 
 - Starter kit - Starting a borrow/lend setup with WAGMI/rainbowkit front end
-https://github.com/billyjitsu/aa-oracle-zkevm
+https://github.com/api3-ecosystem/oracle-zkevm
 
 Or get started now with the [API3 Market](https://market.api3.org/).
 
