@@ -1,64 +1,34 @@
-# API3 hacker challenges at EthLondon 🇬🇧👑🔨🌆
-
+# API3 hacker challenges at EthLondon :gb::crown::hammer::city_sunset:
 Hackers, we hope you are excited for the EthLondon Hackathon! Bringing the Ethereum ecosystem together in the city of London, we are looking forward to seeing what you build.
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
 # API3 Bounties: Total of $5000 API3
-
-We are pleased to share that API3 will be offering a total of $5000 API3 tokens in bounties for the EthLondon Hackathon. 
-
-### 💸 Top Prize: Best DeFi Concept/Application: $1500 API3 ###
-    
+We are pleased to share that API3 will be offering a total of $5000 API3 tokens in bounties for the EthLondon Hackathon.
+### :money_with_wings: Top Prize: Best DeFi Concept/Application: $1500 API3 ###
 -  **Must be deployed to a testnet**
-
-### 🏆 Overall best use of an API3 oracle: $3000 API3 
+### :trophy: Overall best use of an API3 oracle: $3000 API3
 - **Criteria:**
-    - ChainAPI Integration
-    - dAPIs Implementation
-    - QRNG (Specifically for Gaming Usage)
-
+    - Airnode integration using ChainAPI
+    - API3 QRNG: Quantum Randomness (Specifically for Gaming Usage)
+    - dAPI price feed implementation
 - **1st Place:** 1,500 API3
-
     **2nd Place:** 1,000 API3
-
     **3rd Place:** 500 API3
-
-### 😃 Best collaborator $500 API3 
-
+### :smiley: Best collaborator $500 API3
 # Introduction to API3
-
 [API3](https://api3.org/) is a collaborative project that delivers Oracle services to smart contracts in a decentralized and trust-minimized way. It is governed by a decentralized autonomous organization (DAO), namely the [API3 DAO](https://api3.org/dao).
-
-- [API3 Docs](https://docs.api3.org/)
-- [Github](https://github.com/api3dao/)
-- [Medium](https://medium.com/@api3)
-
-### Airnode and dAPIs
-
-Airnode is a serverless function that lets API providers run their own oracle nodes. That way, they can provide data to any on-chain dApp that's interested in their services without an intermediary.
-
-First-party oracles provide a more secure and reliable oracle, whilst enabling dApps to verify the data source.
-
+First-party oracles provide a more secure and reliable oracle, whilst enabling dApps to verify the data source. API3's first-party oracles are powered by Airnode, a serverless oracle node that enables API providers to run their own oracle nodes.
 You can [learn more about first-party oracles](https://docs.api3.org/guides/airnode/calling-an-airnode/) or [dAPIs](https://docs.api3.org/explore/dapis/what-are-dapis.html) within the API3 Documentation.
-
-### Data feeds: dAPIs
-
-dAPIs provide smart contracts with access to continuously updated feeds of market data. API3 data feeds can be accessed in two methods:
-
-- Self-funded dAPIs see users add collateral for oracle operation and are permissionless. They provide a data feed source with off-chain aggregation as a single-source. 
-
-- Managed dAPIs are powered by multiple first-party oracles with native-chain aggregation offering a verifiable, decentralized oracle solution.
-
-Once a dAPI has been integrated a smart contract can access a range of data feed services through the [API3 Market](https://market.api3.org/dapis).
-
-### API3 QRNG 
-
+### ChainAPI: Airnode integration tool
+With ChainAPI your smart contract can connect almost any API, whether open or authenticated, by using API3's first-party oracle node, Airnode. ChainAPI enables you to integrate and deploy the open source Airnode with an intuitive step-by-step integration and deployment process.
+### API3 QRNG
 API3 QRNG is a public utility API3 provides on behalf of well-established, prestigious organizations serving Quantum random number generation (QRNG). QRNG is a method of random number generation based on quantum phenomena and considered within the scientific community to be the most secure method of random number generation.
-
 It operates as a public good, where users simply add gas to a wallet correlated to the oracle node, enabling the oracle node to return a random number when requested by a contract.
-
-Learn more about QRNG within the [API3 explore section](https://docs.api3.org/explore/qrng/). 
+Learn more about QRNG within the [API3 explore section](https://docs.api3.org/explore/qrng/).
+### Data feeds: dAPIs
+dAPIs provide smart contracts with access to continuously updated feeds of market data. API3 data feeds can be accessed in two methods:
+- Self-funded dAPIs see users add collateral for oracle operation and are permissionless. They provide a data feed source with off-chain aggregation as a single-source.
+- Managed dAPIs are powered by multiple first-party oracles with native-chain aggregation offering a verifiable, decentralized oracle solution.
+Once a dAPI has been integrated a smart contract can access a range of data feed services through the [API3 Market](https://market.api3.org/dapis).
 
 
 # Learning resources 
