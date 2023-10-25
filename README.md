@@ -11,11 +11,11 @@ API3 dAPIs are available on 16 chains across the EVM ecosystem.
 
 We are looking for projects that utilize an API3 oracle to create a real-world use case for smart contracts. Projects must use either of the following API3 oracles:
 
-    - API3 QRNG: Quantum Randomness (Gaming focus)
-    - dAPI price feeds 
-    - ChainAPI: Airnode integration tool 
-
-    Please see getting started information in this repo as well as starter kits and examples in the references section.
+  - API3 QRNG: Quantum Randomness (Gaming focus)
+   - dAPI price feeds 
+   - ChainAPI: Airnode integration tool 
+   
+ Please see getting started information in this repo as well as starter kits and examples in the references section.
 
 ### :money_with_wings: Best Sports Betting Application: $1000 API3 (Joint Bounty Prize with Etherspot)
 -  **Must be deployed to a testnet**
