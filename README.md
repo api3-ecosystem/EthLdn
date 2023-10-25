@@ -56,7 +56,7 @@ Once a dAPI has been integrated a smart contract can access a range of data feed
 More reading on API3:
 
 - [Activate self-funded dAPI](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
-- [Read a dAPI value](https://docs.api3.org/guides/dapis/read-a-dapi/)
+- [Read a dAPI value](https://docs.api3.org/explore/dapis/using-dapis.html)
 - [Feed Reader example](https://github.com/api3dao/data-feed-reader-example)
 - [Getting Started](https://github.com/api3-ecosystem/getting-started)
 
