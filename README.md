@@ -24,7 +24,7 @@ Alongside utilizing the sports odds oracle, we will reward projects that utilize
 
 Please note we have a range of endpoints pre-deployed but can deploy additional endpoints as data feeds as required through our oracle deployment tool [ChainAPI](https://chainapi.com/). 
 
-- [Sports Betting API getting started](https://github.com/api3-ecosystem/getting-started/tree/master/airnode-config)
+- [Sports Betting API getting started](https://github.com/api3-ecosystem/getting-started/#making-a-request-to-the-sportmonks-f1-airnode)
 
 ## Questions? Support from API3 developers
 
