@@ -58,9 +58,10 @@ More reading on API3:
 - [Activate self-funded dAPI](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
 - [Read a dAPI value](https://docs.api3.org/explore/dapis/using-dapis.html)
 - [Feed Reader example](https://github.com/api3dao/data-feed-reader-example)
-- [Getting Started](https://github.com/api3-ecosystem/getting-started)
 
 Tutorials: 
+
+- [Sports Betting tools](https://github.com/api3-ecosystem/getting-started)
 
 - [Making on-chain Payments and mint an NFT receipt using dAPIs](https://medium.com/@vanshwassan/making-an-on-chain-payment-and-minting-an-nft-receipt-with-permissionless-price-oracles-a7339f7b8c3e)
 
