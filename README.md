@@ -26,6 +26,8 @@ Alongside utilizing the sports odds oracle, we will reward projects that utilize
 
 Please note we have a range of endpoints pre-deployed but can deploy additional data feeds as required through our oracle deployment tool ChainAPI. 
 
+- [Sports Betting API getting started](https://github.com/api3-ecosystem/getting-started)
+
 ## Questions? Support from API3 developers
 
 Looking for help? Head to the API3 Discord and drop questions in the #dev-support channel: https://discord.gg/api3dao -- Or look out for API3 team members at EthLondon. 
@@ -118,3 +120,10 @@ Participants may submit a maximum of 1 project by the hackathon deadline. After 
 - **Design**: How well-designed is the project? Is it easy to use? Is it visually appealing?
 
 - **BONUS** - Adding functionality to the Airnode protocol that will improve performance, interoperability, or further develop use cases.
+
+# Leave your feedback 
+
+API3 is offering $20 for hackers who provide feedback on their experience of API3's documentation. 
+
+![Feedback graphic](/Users/bencarvill/Desktop/DEV/EthLdn/AU-400 - API3 Social posts - Post 1A (3).png)
+
