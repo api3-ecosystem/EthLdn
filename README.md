@@ -1,11 +1,9 @@
 # API3 hacker challenges at EthLondon :gb::crown::hammer::city_sunset:
-Hackers, we hope you are excited for the EthLondon Hackathon! Bringing the Ethereum ecosystem together in the city of London, we are looking forward to seeing what you build.
+Hackers, we hope you are excited for the EthLondon Hackathon! We are looking forward to seeing what you build.
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 # API3 Bounties: Total of $5000 
 We are pleased to share that API3 will be offering a total of $5000 in bounties paid out in API3 tokens.
-
-API3 dAPIs are available on 16 chains across the EVM ecosystem.
 
 ### :trophy: Best implementation of an API3 oracle: $4000 API3 between a max of 3 winners 
 
@@ -24,9 +22,9 @@ API3 has provided access to Football, Cricket and Formula 1 sports betting odds.
 
 Alongside utilizing the sports odds oracle, we will reward projects that utilize the API3 QRNG to generate random numbers or dAPI price feeds for sports betting applications.
 
-Please note we have a range of endpoints pre-deployed but can deploy additional data feeds as required through our oracle deployment tool ChainAPI. 
+Please note we have a range of endpoints pre-deployed but can deploy additional endpoints as data feeds as required through our oracle deployment tool [ChainAPI](https://chainapi.com/). 
 
-- [Sports Betting API getting started](https://github.com/api3-ecosystem/getting-started)
+- [Sports Betting API getting started](https://github.com/api3-ecosystem/getting-started/tree/master/airnode-config)
 
 ## Questions? Support from API3 developers
 
