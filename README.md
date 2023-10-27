@@ -71,6 +71,9 @@ Tutorials:
 
 Links to different repos for examples and help.
 
+- ETH London Workshop Repo:
+https://github.com/api3-ecosystem/Eth-London-Demo
+
 - ETH CHI Workshop Repo:
 https://github.com/api3-ecosystem/API3-PriceFeeds-Hardhat-Foundry
 
